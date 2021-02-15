@@ -16,6 +16,9 @@ public class Shape {
     public Shape(){
         this.color = "red"; // setColor("red");
         this.filled = true; // setFilled(true);
+        // asdfasdfasdf
+        // asdfasfasdf
+
     }
 
 
